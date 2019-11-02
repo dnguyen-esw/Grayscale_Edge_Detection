@@ -1,0 +1,10 @@
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project07\bin\Debug\XLA_Project07.exe.config
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project07\bin\Debug\XLA_Project07.exe
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project07\bin\Debug\XLA_Project07.pdb
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project07\obj\Debug\XLA_Project07.Form1.resources
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project07\obj\Debug\XLA_Project07.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project07\obj\Debug\XLA_Project07.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project07\obj\Debug\XLA_Project07.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project07\obj\Debug\XLA_Project07.exe
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project07\obj\Debug\XLA_Project07.pdb
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project07\obj\Debug\XLA_Project07.csprojAssemblyReference.cache
